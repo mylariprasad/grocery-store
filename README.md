@@ -2,7 +2,7 @@
 
 This project is an online grocery store website developed using HTML, CSS, and JavaScript. It provides a user-friendly interface for customers to browse and purchase groceries online.
 
-<h2>Live link:</h2> https://mylariprasad.github.io/Online-Learning-Portal/
+<h2>Live link:</h2> https://mylariprasad.github.io/grocery-store/
 
 
 ## Features
